@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\parctice academy task30.01.2023\parctice academy task\obj\Debug\netcoreapp3.1\parctice academy task.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\parctice academy task30.01.2023\parctice academy task\obj\Debug\netcoreapp3.1\parctice academy task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\parctice academy task30.01.2023\parctice academy task\obj\Debug\netcoreapp3.1\parctice academy task.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\parctice academy task30.01.2023\parctice academy task\obj\Debug\netcoreapp3.1\parctice academy task.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\parctice academy task30.01.2023\parctice academy task\obj\Debug\netcoreapp3.1\parctice academy task.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\parctice academy task30.01.2023\parctice academy task\bin\Debug\netcoreapp3.1\parctice academy task.exe
+C:\Users\ASUS\source\repos\parctice academy task30.01.2023\parctice academy task\bin\Debug\netcoreapp3.1\parctice academy task.deps.json
+C:\Users\ASUS\source\repos\parctice academy task30.01.2023\parctice academy task\bin\Debug\netcoreapp3.1\parctice academy task.runtimeconfig.json
+C:\Users\ASUS\source\repos\parctice academy task30.01.2023\parctice academy task\bin\Debug\netcoreapp3.1\parctice academy task.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\parctice academy task30.01.2023\parctice academy task\bin\Debug\netcoreapp3.1\parctice academy task.dll
+C:\Users\ASUS\source\repos\parctice academy task30.01.2023\parctice academy task\bin\Debug\netcoreapp3.1\parctice academy task.pdb
+C:\Users\ASUS\source\repos\parctice academy task30.01.2023\parctice academy task\obj\Debug\netcoreapp3.1\parctice academy task.dll
+C:\Users\ASUS\source\repos\parctice academy task30.01.2023\parctice academy task\obj\Debug\netcoreapp3.1\parctice academy task.pdb
+C:\Users\ASUS\source\repos\parctice academy task30.01.2023\parctice academy task\obj\Debug\netcoreapp3.1\parctice academy task.genruntimeconfig.cache

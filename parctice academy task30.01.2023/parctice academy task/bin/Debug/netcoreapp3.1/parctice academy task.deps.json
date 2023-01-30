@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "parctice academy task/1.0.0": {
+        "runtime": {
+          "parctice academy task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "parctice academy task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
